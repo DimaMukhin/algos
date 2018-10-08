@@ -3,8 +3,6 @@
 Community (college) maintained list of Algorithms and Data Structures implementations.
 
 [![Join the chat at https://gitter.im/iiitv/algos](https://badges.gitter.im/iiitv/algos.svg)](https://gitter.im/iiitv/algos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Code Climate](https://codeclimate.com/github/iiitv/algos/badges/gpa.svg)](https://codeclimate.com/github/iiitv/algos)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c10c3fd13edb475ca1bf77d4291d54b4)](https://www.codacy.com/app/aviaryan/algos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=iiitv/algos&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/iiitv/algos.svg?branch=master)](https://travis-ci.org/iiitv/algos)
 [![GitHub issues](https://img.shields.io/github/issues/iiitv/algos.svg)](https://github.com/iiitv/algos/issues)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/iiitv/algos/)
@@ -20,7 +18,8 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|:-----------------:| :-----------------:|
 | [Bin Sort](http://www.cdn.geeksforgeeks.org/bucket-sort-2/)| [:white_check_mark:](bin_sort/bin_sort.c) | |[:white_check_mark:](bin_sort/BinSort.java) | [:white_check_mark:](bin_sort/bin_sort.py) | [:white_check_mark:](bin_sort/bin_sort.go) | | |
 | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) | [:white_check_mark:](binary_search/binary_search.c) | | [:white_check_mark:](binary_search/BinarySearch.java) | [:white_check_mark:](binary_search/binary_search.py) | [:white_check_mark:](binary_search/binary_search.go) | [:white_check_mark:](binary_search/binarySearch.js) | [:white_check_mark:](binary_search/BinarySearch.cs) |
-| [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search) | | | [:white_check_mark:](breadth_first_search/BreadthFirstSearch.java) | | | | |
+| [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search) | | | [:white_check_mark:](breadth_first_search/BreadthFirstSearch.java) |[:white_check_mark:](breadth_first_search/breadth_first_search.py) | | | |
+| [Breadth First Traversal](https://www.cs.bu.edu/teaching/c/tree/breadth-first/) | | |  |[:white_check_mark:](breadth_first_traversal/breadth_first_traversal.py) | | | |
 | [Coin Change Problem](http://www.algorithmist.com/index.php/Coin_Change) | [:white_check_mark:](coin_change_problem/coin_change_problem.c) | | [:white_check_mark:](coin_change_problem/CoinChangeProblem.java) | [:white_check_mark:](coin_change_problem/coin_change_problem.py) | [:white_check_mark:](coin_change_problem/coin_change_problem.go) | [:white_check_mark:](coin_change_problem/coinChangeProblem.js) | |
 | [Counting Sort](http://www.geeksforgeeks.org/counting-sort/)| [:white_check_mark:](counting_sort/counting_sort.c) | | [:white_check_mark:](counting_sort/CountingSort.java) | [:white_check_mark:](counting_sort/counting_sort.py) | [:white_check_mark:](counting_sort/counting_sort.go) | [:white_check_mark:](counting_sort/countingSort.js) | [:white_check_mark:](counting_sort/CountingSort.cs) |
 | [Depth First Traversal](http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/) | | | [:white_check_mark:](depth_first_traversal/DepthFirstTraversal.java) | [:white_check_mark:](depth_first_traversal/DepthFirstTraversal.py) | | | |
@@ -37,6 +36,7 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 | [Longest Palindromic Substring](http://www.geeksforgeeks.org/longest-palindrome-substring-set-1/) | | [:white_check_mark:](longest_palindromic_substring/longest_palindromic_substring.cpp) | [:white_check_mark:](longest_palindromic_substring/LongestPalindromicSubstring.java) | [:white_check_mark:](longest_palindromic_substring/longest_palindromic_substring.py) | [:white_check_mark:](longest_palindromic_substring/longest_palindromic_substring.go) | [:white_check_mark:](longest_palindromic_substring/longestPalindromicSubstring.js) | |
 | [Merge Sort](https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/overview-of-merge-sort) | [:white_check_mark:](merge_sort/merge_sort.c) | | [:white_check_mark:](merge_sort/MergeSort.java) | [:white_check_mark:](merge_sort/merge_sort.py) | [:white_check_mark:](merge_sort/merge_sort.go) | [:white_check_mark:](merge_sort/mergeSort.js) | [:white_check_mark:](merge_sort/MergeSort.cs) |
 | [Modular Exponential](http://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/) | [:white_check_mark:](modular_exponential/modular_exponential.c) | | [:white_check_mark:](modular_exponential/ModularExponential.java) | [:white_check_mark:](modular_exponential/modular_exponential.py) | [:white_check_mark:](modular_exponential/modular_exponential.go) | [:white_check_mark:](modular_exponential/modularExponential.js) | |
+| [Nth Fibonacci Number](https://en.wikipedia.org/wiki/Fibonacci_number) | | | [:white_check_mark:](fibonacci_number/FibonacciNumber.java) | | | | |
 | [N-Queen Problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) | | [:white_check_mark:](n_queen_problem/NQueenProblem.cpp) | [:white_check_mark:](n_queen_problem/NQueenProblem.java) | [:white_check_mark:](n_queen_problem/n_queen_problem.py) | [:white_check_mark:](n_queen_problem/n_queen_problem.go) | | |
 | [Prime Factor](https://en.wikipedia.org/wiki/Prime_factor) | [:white_check_mark:](prime_factor/prime_factor.c) | | [:white_check_mark:](prime_factor/PrimeFactor.java) | [:white_check_mark:](prime_factor/prime_factor.py) | [:white_check_mark:](prime_factor/prime_factor.go) | [:white_check_mark:](prime_factor/primeFactor.js) | |
 | [Prims](https://en.wikipedia.org/wiki/Prim%27s_algorithm) | [:white_check_mark:](prims/prims.c) | | [:white_check_mark:](prims/Prims.java) | | [:white_check_mark:](prims/prims.go) | [:white_check_mark:](prims/prims.js) | |
@@ -84,6 +84,7 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 * [Intro to Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [Popular Data Structures and Algorithms - Codechef](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * [Stanford-ACM-Codes](https://github.com/jaehyunp/stanfordacm) - A list of codes written by previous Stanford ACM team members and coaches.
+* [Data Structures and Algorithms](https://hackr.io/tutorials/learn-data-structures-algorithms) - A user ranked list of online tutorials to learn Data Structures and Algorithms online.
 
 
 
